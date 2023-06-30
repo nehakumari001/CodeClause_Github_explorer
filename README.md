@@ -1,1 +1,1 @@
-# CodeClause_Github_explorer
+# github-explorer
